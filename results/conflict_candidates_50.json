@@ -1,0 +1,252 @@
+[
+  {
+    "dilemma_idx": 43164,
+    "topic_group": "event_special",
+    "text": "Your friends have organized a surprise party for you, unaware that you dislike surprise gatherings. You appreciate their efforts but feel uncomfortable and overwhelmed at the party. Should you pretend to enjoy the party to not hurt your friends' feelings or express your discomfort honestly?"
+  },
+  {
+    "dilemma_idx": 4017,
+    "topic_group": "event_daily_life",
+    "text": "You're a scientist studying a rare species of bird in the wild. During your research, you realize that you must disturb their nests to get accurate data, which can potentially harm the birds or their offspring. Should you proceed with the research knowing it could harm the birds, or abandon the project to ensure their safety?"
+  },
+  {
+    "dilemma_idx": 33962,
+    "topic_group": "close_relationship",
+    "text": "John and Sam have been best friends for over a decade. Recently, Sam began acting out of character, causing John to feel uncomfortable and consider ending their friendship. Should John cut off the friendship based on Sam's unusual behavior or should he try to understand and help Sam?"
+  },
+  {
+    "dilemma_idx": 7894,
+    "topic_group": "religion_custom",
+    "text": "After losing his wife to cancer, John has recently moved on and is contemplating remarriage. However, his deceased wife's family strongly disapproves of him remarrying as they believe it dishonors her memory. Should John respect his late wife's family's wishes and remain single or should he pursue his own happiness and remarry?"
+  },
+  {
+    "dilemma_idx": 23200,
+    "topic_group": "close_relationship",
+    "text": "You are a tenant sharing an apartment with a roommate who regularly burns incense as part of her spiritual practices. Though you respect her beliefs, the smell of the incense bothers you and often gives you headaches. Should you ask her to stop burning the incense, potentially infringing on her freedom of religious expression, or suffer in silence and compromise your health?"
+  },
+  {
+    "dilemma_idx": 36247,
+    "topic_group": "business_organization",
+    "text": "You are a waiter at a high-end restaurant that serves expensive and rare wines. During a shift, you accidentally spill a customer's $500 bottle of wine, and your manager didn't notice. Should you confess your mistake to the manager, risking your job, or keep silent, potentially damaging your integrity?"
+  },
+  {
+    "dilemma_idx": 38093,
+    "topic_group": "family",
+    "text": "A single mother is working multiple jobs to support her child. Her demanding work schedule leaves little time for proper guidance and supervision of her child, increasing the child's exposure to potential risks and harmful influences. Should the mother quit one of her jobs to spend more time with her child, putting their financial stability at risk?"
+  },
+  {
+    "dilemma_idx": 37432,
+    "topic_group": "issue_pregnancy",
+    "text": "You have been dating a wonderful person for a year, who does not want any involvement with your children. You love this person, but your kids are your world and not including them feels like you're betraying their trust. Should you continue your relationship at the cost of your children's feelings or end it to prioritize your kids?"
+  },
+  {
+    "dilemma_idx": 34456,
+    "topic_group": "religion_custom",
+    "text": "Your uncle, a recent widower, has quickly started a relationship with another recent widower in the family. You notice that the quick progression of their relationship coincides with the announcement of their considerable inheritances. Should you confront your uncle about the suspicious timing, potentially causing family conflict, or stay silent and risk the possibility of deceit?"
+  },
+  {
+    "dilemma_idx": 49325,
+    "topic_group": "issue_pregnancy",
+    "text": "The husband, though separated from his wife, has been diligently paying child support for their two children. Recently, he found out that his ex-wife has been using the child support money on personal luxuries instead of their children's needs. Should he continue paying child support knowing it's not being used for the intended purpose?"
+  },
+  {
+    "dilemma_idx": 7498,
+    "topic_group": "issue_wildlife_human_environment",
+    "text": "A pharmaceutical company is struggling to create a successful medicine for a deadly disease. However, they discover a less ethical method of testing that could potentially speed up the process significantly. Should they pursue the rapid yet unethical method to possibly save lives sooner, or stick to their ethical guidelines and potentially delay the cure?"
+  },
+  {
+    "dilemma_idx": 18886,
+    "topic_group": "comitted_relationship",
+    "text": "You're in a committed relationship with someone who is curious about your past relationships. You've had a rocky past and don't want to bring it up in fear it will affect your current relationship. Should you be completely honest about your past relationships to maintain honesty, or keep it hidden to avoid potential conflicts?"
+  },
+  {
+    "dilemma_idx": 21067,
+    "topic_group": "issue_young_people",
+    "text": "You are a well-respected athlete in a major sports competition. You lose the final match due to a controversial decision by the officials. Should you publicly criticize the officials' decision despite the negative impact this might have on your reputation for being graceful in defeat?"
+  },
+  {
+    "dilemma_idx": 38518,
+    "topic_group": "role_duty_responsibility",
+    "text": "You are a journalist working on a story about a powerful politician. Your source has provided you with confidential information that could ruin the politician's career, but publishing it could also harm innocent people involved. Should you publish the information and potentially harm innocent people or suppress it to protect them?"
+  },
+  {
+    "dilemma_idx": 25448,
+    "topic_group": "school",
+    "text": "John is a political science teacher at a local college. He enjoys challenging his students' beliefs to stimulate critical thinking, but one of his students, Alice, feels that his actions are harassing and offensive. Should John continue to challenge his students' beliefs despite Alice's discomfort or should he modify his teaching methods to avoid causing distress?"
+  },
+  {
+    "dilemma_idx": 715,
+    "topic_group": "role_duty_responsibility",
+    "text": "You are planning a surprise dinner for your friend who hasn't explicitly mentioned any food allergies. You get to know from another friend that they might be allergic to peanuts, but you can't confirm without spoiling the surprise. Should you risk using peanuts in your recipe, possibly putting your friend's health at risk, or spoil the surprise by asking about their allergy?"
+  },
+  {
+    "dilemma_idx": 46758,
+    "topic_group": "issue_pregnancy",
+    "text": "Sarah and Tom have been married for a few years and are contemplating whether to have children or not. Both are carriers of a severe genetic disorder which could possibly be inherited by their offspring. Should they decide to risk having a biological child knowing the potential health risks or choose not to have children at all?"
+  },
+  {
+    "dilemma_idx": 40622,
+    "topic_group": "event_daily_life",
+    "text": "You have saved up money to buy a special gift for your loved one's birthday. However, you also found out that a close friend is in dire need of financial help. Should you use the money to help your friend or buy the gift for your loved one?"
+  },
+  {
+    "dilemma_idx": 36223,
+    "topic_group": "friend",
+    "text": "You are an experienced mountaineer guiding a group of novice climbers down a tall mountain. One of the members in your group is struggling and slowing the whole group down, potentially putting everyone at risk due to changing weather conditions. Should you leave the struggling member behind with enough supplies and continue with the rest of the group or risk everyone's lives by sticking together?"
+  },
+  {
+    "dilemma_idx": 10954,
+    "topic_group": "school",
+    "text": "You are a teacher in a class with a child who constantly fidgets, disrupting the learning environment. However, the child has ADHD and the fidgeting is a way for them to cope with their condition. Should you ask the child to stop fidgeting even though it helps them manage their ADHD?"
+  },
+  {
+    "dilemma_idx": 21074,
+    "topic_group": "friend",
+    "text": "You've been friends with John for years but his inappropriate jokes often embarrass you in public. He doesn't seem to realize it and you worry about hurting his feelings. Should you confront John about his behavior or avoid him in social situations?"
+  },
+  {
+    "dilemma_idx": 7581,
+    "topic_group": "event_special",
+    "text": "You've been planning a birthday party and invited a close friend who recently had a falling out with another friend. Now, the other friend is upset and doesn't want to attend if the first friend is present, putting you in the middle of their feud. Should you uninvite the first friend to ensure the second one attends, or risk creating more tension by keeping the original guest list?"
+  },
+  {
+    "dilemma_idx": 30694,
+    "topic_group": "issue_personal_career",
+    "text": "You are a talented artist who uses graffiti as a medium of expression. Your latest work, though beautiful and meaningful, is done on the wall of a private property without the owner's consent. Should you leave the graffiti as it is, asserting your freedom of expression, or should you remove it, respecting the private property rights?"
+  },
+  {
+    "dilemma_idx": 20677,
+    "topic_group": "business_organization",
+    "text": "You have been working at a retail store for five years and have always had the same shift. One day, the new manager changes your shift without your consent and gives your original shift to his friend. Should you report this to the higher management or keep quiet to avoid potential conflict?"
+  },
+  {
+    "dilemma_idx": 46969,
+    "topic_group": "event_special",
+    "text": "A group of friends have a tradition of throwing surprise birthday parties for each other. However, one friend, due to his religious beliefs, does not celebrate birthdays and has expressed his discomfort about the tradition. Should the group respect his beliefs and break the tradition or continue with the surprise party, risking his discomfort?"
+  },
+  {
+    "dilemma_idx": 23404,
+    "topic_group": "event_daily_life",
+    "text": "You have always bought gifts for your nephews on every occasion, from birthdays to holidays. Recently, you've noticed that they've become entitled and ungrateful, expecting expensive gifts and not appreciating what they receive. Should you continue buying them gifts to maintain the tradition or stop doing so to teach them a lesson about gratitude and entitlement?"
+  },
+  {
+    "dilemma_idx": 27828,
+    "topic_group": "religion_custom",
+    "text": "Jenny is deeply religious, and her boyfriend, Mark, is an atheist. Mark often ridicules her beliefs and asks her to agree with his atheist viewpoints as a compromise, causing her to feel torn between her love for him and her faith. Should Jenny agree with Mark's viewpoints for the sake of their relationship, even if she finds them wrong?"
+  },
+  {
+    "dilemma_idx": 41077,
+    "topic_group": "issue_crime_addiction",
+    "text": "Your significant other has been accused of a serious crime that you know they didn't commit. They confess to the crime to protect their troubled sibling, who is the real culprit. Do you expose the truth and risk your partner's sibling getting in trouble, or stay silent and let your partner take the fall?"
+  },
+  {
+    "dilemma_idx": 33322,
+    "topic_group": "close_relationship",
+    "text": "After a bitter breakup, you discover your ex has been spreading malicious lies about you. You have proof to expose their dishonest behavior, but it would involve revealing private conversations and personal information. Should you uphold your own integrity and privacy rules or use the information to clear your name?"
+  },
+  {
+    "dilemma_idx": 37617,
+    "topic_group": "school",
+    "text": "You are a teacher who is currently mad at one of your students for consistently disrupting the class. However, it's known that this student comes from a troubled home and acts out as a form of seeking attention. Should you continue to discipline this student like any other, potentially pushing them further away, or should you seek alternative ways to address the issue, such as counselling or mentoring, even if it means making an exception?"
+  },
+  {
+    "dilemma_idx": 30329,
+    "topic_group": "issue_young_people",
+    "text": "Your child loves to play video games and wants to be a professional gamer. However, you worry about the lack of job security, long hours and potential isolation from the real world this career choice entails. Should you support your child's dreams even if you think it might not be in their best long term interest?"
+  },
+  {
+    "dilemma_idx": 23313,
+    "topic_group": "issue_young_people",
+    "text": "A talented young athlete is suffering from a potentially career-ending injury. The doctor believes that a risky experimental treatment could potentially save his career, but it could also result in severe health complications. Should the doctor recommend the risky treatment to the athlete, possibly jeopardizing his health, or suggest he retire from the sport, potentially ending his dreams?"
+  },
+  {
+    "dilemma_idx": 8339,
+    "topic_group": "issue_wildlife_human_environment",
+    "text": "You have decided to foster cats from a local animal shelter. One of the cats you are fostering appears to be pregnant, but the shelter has a policy of neutering all animals before they are rehomed. Should you respect the shelter's policy and have the cat neutered, or let her have her kittens?"
+  },
+  {
+    "dilemma_idx": 30131,
+    "topic_group": "role_duty_responsibility",
+    "text": "You are a surgeon who is about to perform a life-saving operation. However, you realize that you have a small cut on your hand that could potentially expose the patient to infection. Do you proceed with the operation, potentially putting the patient at risk, or do you step back, possibly losing valuable time?"
+  },
+  {
+    "dilemma_idx": 11935,
+    "topic_group": "workplace",
+    "text": "You have been working on a major project for weeks and the deadline is fast approaching. You wake up feeling sick but worry that your absence would jeopardize the completion of the project. Should you stay home and rest, potentially delaying the project, or go to work and risk spreading your illness to your colleagues?"
+  },
+  {
+    "dilemma_idx": 3954,
+    "topic_group": "comitted_relationship",
+    "text": "John has been married to his wife for 10 years, but he has developed strong feelings for another woman. This woman reciprocates his feelings and they both believe they could build a better life together. Should John end his marriage, potentially hurting his wife, to pursue happiness with this other woman?"
+  },
+  {
+    "dilemma_idx": 20351,
+    "topic_group": "issue_self_image_social",
+    "text": "You're a marketing executive at a company that is rolling out a new game on social media. You personally find the game uninteresting and feel that it promotes unhealthy competition among users. Should you still promote the game effectively for the sake of your job, despite your personal feelings and ethical concerns about its impact on users?"
+  },
+  {
+    "dilemma_idx": 13996,
+    "topic_group": "issue_self_image_social",
+    "text": "You've recently visited a new hair salon and received a terrible haircut. The hairstylist is a single mother, and her tips are the primary source of her income. Do you leave a poor online review that could potentially harm her livelihood, or do you remain silent and let other potential customers risk the same disappointment?"
+  },
+  {
+    "dilemma_idx": 37843,
+    "topic_group": "issue_personal_career",
+    "text": "You're a talented artist who's been offered a scholarship to a prestigious art school. However, accepting the scholarship would mean leaving your family who are financially dependent on you. Should you pursue your artistic talents and dreams at the cost of potentially leaving your family in financial hardship?"
+  },
+  {
+    "dilemma_idx": 8923,
+    "topic_group": "issue_personal_career",
+    "text": "You are a member of a respected choir group that often participates in charity events. One day, the choir director decides to accept a significant donation from a company known for its unethical practices. Do you continue to perform under the director's leadership knowing the source of the funding or voice your concerns and potentially risk your position in the choir?"
+  },
+  {
+    "dilemma_idx": 40352,
+    "topic_group": "family",
+    "text": "You've moved out of your family home to start your own life independently. Your parents are aging and they need constant care and support; however, you also need to build your own life and career in a different city. Should you sacrifice your personal growth and return home to take care of your parents?"
+  },
+  {
+    "dilemma_idx": 8902,
+    "topic_group": "friend",
+    "text": "A group of friends loves to play pranks on each other for fun. One friend, who is afraid of spiders, gives consent for the group to prank him but doesn't know it involves a fake spider. Should the group carry out the prank knowing it could severely scare their friend?"
+  },
+  {
+    "dilemma_idx": 49168,
+    "topic_group": "comitted_relationship",
+    "text": "John and Mary are both career-oriented individuals in a long-term relationship. John's company offers him a promotion, but it requires relocating to a different city, which could hinder Mary's career progression. Should John accept the promotion and potentially jeopardize Mary's career or reject it to support Mary's growth?"
+  },
+  {
+    "dilemma_idx": 11742,
+    "topic_group": "issue_crime_addiction",
+    "text": "John has been wrongly accused of a crime he didn't commit and has served time in prison. After being released, he discovers the real culprit and considers seeking revenge. Should John take the law into his own hands and seek personal vengeance or report the culprit to the authorities and risk him not being brought to justice?"
+  },
+  {
+    "dilemma_idx": 46132,
+    "topic_group": "issue_wildlife_human_environment",
+    "text": "As a leader of a large corporation, you have the power to make significant changes to reduce carbon emissions. However, implementing these changes would lead to job losses and impact the livelihood of many employees. Do you prioritize the environment over the welfare of your employees?"
+  },
+  {
+    "dilemma_idx": 525,
+    "topic_group": "family",
+    "text": "You are a single parent struggling with financial issues. You resort to stealing food from your workplace to feed your family, and your child finds out about your actions. Would you continue to steal if it meant losing your child's respect but ensuring their survival?"
+  },
+  {
+    "dilemma_idx": 34754,
+    "topic_group": "issue_self_image_social",
+    "text": "You are a blogger who writes about societal issues. You know a family who recently went through a tragic loss and you're considering writing about it to raise awareness about the issue they faced, but you're also aware it could significantly increase your blog traffic. Should you write the blog knowing it would exploit their tragedy for your benefit?"
+  },
+  {
+    "dilemma_idx": 22043,
+    "topic_group": "issue_crime_addiction",
+    "text": "As a lawyer, you are defending your brother in a legal dispute. In the court, you find out that your brother's opponent is your childhood friend who has a weak heart and can't handle intense stress, but you need to pressurize him to win the case. Should you exploit your friend's health issue to secure a win for your brother?"
+  },
+  {
+    "dilemma_idx": 49959,
+    "topic_group": "business_organization",
+    "text": "A charity organization has received a generous donation of clothes from an anonymous donor. However, the organization has recently discovered that the donated clothes might have been stolen from different stores. Should the organization distribute the possibly stolen clothes to those in need or report the matter to the police?"
+  },
+  {
+    "dilemma_idx": 6255,
+    "topic_group": "workplace",
+    "text": "As the manager of a small company, you've developed feelings for one of your employees. You want to pursue a romantic relationship with them, but this can potentially lead to favoritism or cause discomfort among the team. Should you pursue your feelings and risk your professional reputation, or suppress them to maintain a healthy work environment?"
+  }
+]
